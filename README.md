@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" src="https://github.com/jgphilpott/dream_net/blob/main/icon.jpg">
+  <img width="250" height="250" src="https://github.com/jgphilpott/dream_net/blob/main/icon.jpg">
 </p>
 
 # Dream Net
