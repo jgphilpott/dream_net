@@ -8,4 +8,16 @@ The Dream Net is a neural networking tool used to create visual art! It uses a t
 
 This project uses two pretrained [models from TensorFlow Hub](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256) to make the image generation process as simple and speedy as possible. If you want to take a deeper dive and learn how to build your own models from scratch I recommend [this tutorial](https://www.tensorflow.org/tutorials/generative/style_transfer).
 
-For a more detailed introduction and a few examples take a look at [this short video](https://youtu.be/krihwKy9ckg).
+For a few examples take a look at [this short video](https://youtu.be/krihwKy9ckg).
+
+# Usage
+
+This repository contains two helpful files to get you started, a Jupyter Notebook and a Python file.
+
+## Jupyter Notebook
+
+The easiest way to get started is to simply upload [this Jupyter Notebook file](https://github.com/jgphilpott/dream_net/blob/main/dream_net.ipynb) to [Google Colab](https://colab.research.google.com/notebooks) and just read and run the cells. If you haven't used Colaboratory before check out [this intro](https://colab.research.google.com/notebooks/intro.ipynb), it's a great tool!
+
+## Python File
+
+...
