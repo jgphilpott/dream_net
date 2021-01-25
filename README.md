@@ -20,4 +20,13 @@ The easiest way to get started is to simply upload [this Jupyter Notebook file](
 
 ## Python File
 
-...
+The first thing you will need to do is to make sure you have all the requirements installed. Run the commands below and the modules will be installed, if they aren't already.
+
+```
+pip install numpy
+pip install Pillow
+pip install tensorflow
+pip install tensorflow_hub
+```
+
+Once that's done you can download [this python file](https://github.com/jgphilpott/dream_net/blob/main/dream_net.py) and execute it with the command `python3 dream_net.py`. Then simply follow the prompts in the terminal window and if all goes well the program will generate two different results for you and you can pick your favorite!
